@@ -26,3 +26,6 @@ body {
 img {
     border: 4px solid steelblue;
 }
+grid-container {
+    display: grid;
+}
