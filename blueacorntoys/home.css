@@ -23,7 +23,7 @@ nav a:link, nav a:visited {
     color: #D3E9F9; 
 }
 body {
-    max-width: auto;
+    max-width: 80%;
     font-size: 30px;
     font-family: Eb Garamond;
     text-align: center;
@@ -69,4 +69,8 @@ footer .social img {
    .sitelink {
     padding: 35px;
     text-align: left;
+}
+.social {
+    display: flex;
+    gap: 0.5em;
 }
