@@ -75,3 +75,6 @@ footer .social img {
     display: flex;
     gap: 0.5em;
 }
+.copy {
+    color: #D3E9F9;
+}
