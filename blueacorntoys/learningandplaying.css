@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Dancing+Script&display=swap');
+
+.logo {
+    max-width: 145px;
+    max-height: 145px;
+    border-radius: 50%;
+}
+header {
+    background-color: #7f91bf;
+    padding: 1em;
+    text-align: center;
+}
+nav a {
+    padding: 20px;
+    line-height: 3em;
+    justify-content: space-around;  
+}
+nav a:hover {
+    background-color: #4a288d;
+}
+nav a:link, nav a:visited {
+    color: #D3E9F9; 
+}
+body {
+    max-width: 80%;
+    font-size: 30px;
+    font-family: Eb Garamond;
+    text-align: center;
+    margin: auto;
+}
+research {
+    text-align: left;
+}
+images {
+    display: flex;
+}
+.rooster {
+    max-width: 400px;
+    max-height: 400px;
+}
+.babyhedgehog {
+    max-height: 400px;
+    max-width: 400px;
+}
+footer {
+    background-color:#7f91bf;
+    padding: 25px 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sitelink:hover {
+    background-color: #4a288d; }
+    .sitelink {
+        color:#D3E9F9
+    }
+    .copy {
+        color:#D3E9F9;
+        text-align: left;
+    }
+   .research {
+    text-align: left;
+   }
+   .toys {
+    text-align: left;
+   }
+footer .social img {
+    padding-top: 15px;
+   }
+.sitelink {
+    padding: 35px;
+    text-align: left;
+}
+.social {
+    display: flex;
+    gap: 0.5em;
+}
