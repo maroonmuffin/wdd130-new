@@ -36,6 +36,7 @@ text-align: left;
 }
 .images {
     display: flex;
+    justify-content: center;
 }
 .rooster {
     max-width: 400px;
@@ -44,6 +45,8 @@ text-align: left;
 .babyhedgehog {
     max-height: 400px;
     max-width: 400px;
+
+
 }
 footer {
     background-color:#7f91bf;
